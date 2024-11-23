@@ -15,8 +15,8 @@ const doc = {
         description: "Local Server",
       },
       {
-        url: "https://61muhammadalzisaptiadi.nodejssanbercode.my.id/api",
-        description: "Cpanel",
+        url: "https://sanberbe61-m-alzi-saptiadi.vercel.app/api",
+        description: "versel",
       }
     ],
     components: {
