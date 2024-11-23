@@ -1,16 +1,27 @@
-Nama : Muhammad Alzi Saptiadi
-Judul Proyek Akhir : API Penjualan
+# Muhammad Alzi Saptiadi - Final Project
 
---FINAL PROJECT--
+## Project Title: API Penjualan
 
-Lingkup dari pengelolaan Order antara lain :
-Membuat Order Baru
-Menampilkan Riwayat Order berdasarkan Pengguna (User)
+---
 
-Fitur-fitur  : (Produk,Categories,Upload,Auth,Order)
+### **Overview**
+This is the Final Project for [SanberCode Batch 61](https://sanberbe61.vercel.app/), focusing on building an API for managing sales orders.
 
-Link Vercel : https://sanberbe61-m-alzi-saptiadi.vercel.app
-Link Swagger : https://sanberbe61-m-alzi-saptiadi.vercel.app/docs/
-Link Github : https://github.com/Alzisptd/sanberbe61-M_ALZI_SAPTIADI/
-Link Youtube : https://www.youtube.com/watch?v=NzkkeYdvazk
-Link Cpanel : http://61muhammadalzisaptiadi.nodejssanbercode.my.id/
+### **Scope of the Project**
+The project includes the following key features for order management:
+- **Create New Orders**
+- **Display Order History by User**
+
+### **Features**
+- **Produk**: Manage product listings.
+- **Categories**: Categorize products for better organization.
+- **Upload**: Enable users to upload product images.
+- **Auth**: User authentication and authorization system.
+- **Order**: Create and manage orders, track their statuses.
+
+### **Links**
+- **Vercel (Live Demo)**: [View Project](https://sanberbe61-m-alzi-saptiadi.vercel.app)
+- **Swagger (API Documentation)**: [View API Docs](https://sanberbe61-m-alzi-saptiadi.vercel.app/docs/)
+- **GitHub (Source Code)**: [View Repository](https://github.com/Alzisptd/sanberbe61-M_ALZI_SAPTIADI/)
+- **YouTube (Project Demo)**: [Watch Video](https://www.youtube.com/watch?v=NzkkeYdvazk)
+- **Cpanel (Admin Panel)**: [Access Admin Panel](http://61muhammadalzisaptiadi.node
