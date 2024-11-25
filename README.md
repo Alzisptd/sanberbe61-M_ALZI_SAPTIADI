@@ -24,4 +24,4 @@ The project includes the following key features for order management:
 - **Swagger (API Documentation)**: [View API Docs](https://sanberbe61-m-alzi-saptiadi.vercel.app/docs/)
 - **GitHub (Source Code)**: [View Repository](https://github.com/Alzisptd/sanberbe61-M_ALZI_SAPTIADI/)
 - **YouTube (Project Demo)**: [Watch Video](https://www.youtube.com/watch?v=NzkkeYdvazk)
-- **Cpanel (Admin Panel)**: [Access Admin Panel](http://61muhammadalzisaptiadi.node
+- **Cpanel (Admin Panel)**: [Access Admin Panel](http://61muhammadalzisaptiadi.nodejssanbercode.my.id/)
